@@ -2,7 +2,7 @@
 
 - **프로젝트 기간: 2018.03 - 2018.06(4개월, 팀)**
 - **프로젝트 개요: (주)세일여행사 직원들을 위한 데이터 베이스 설계 및 구축 프로젝트**
-- **사용기술: Toad Data Modeler, MySQL, SQL(Structure Quary Language)**
+- **사용 기술: Toad Data Modeler, MySQL, SQL(Structure Quary Language)**
 - **역할: 인터뷰를 통한 업무 기능도 도출, 논리적&물리적 DB 구축, 용어사전 및 도메인 기술서 작성**
 
 
